@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani-2308" alt="mani-2308" /></a> </p>
 
-- 🔭 I’m currently working on [Wikipedia Search Application](wikivault.ccbp.tech)
+- 🔭 I’m currently working on [Wikipedia Search Application](https://wikivault.ccbp.tech/)
 
 - 🌱 I’m currently learning **Local storage, JSON, and API integration**
 
